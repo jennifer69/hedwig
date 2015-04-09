@@ -11,7 +11,7 @@
         <field name="ACTION">FLASH</field>
         <value name="LED">
           <block type="math_number" id="114">
-            <field name="NUM">2</field>
+            <field name="NUM">666</field>
           </block>
         </value>
         <next>
@@ -19,7 +19,7 @@
             <field name="ACTION">FLASH</field>
             <value name="LED">
               <block type="math_number" id="121">
-                <field name="NUM">3</field>
+                <field name="NUM">666</field>
               </block>
             </value>
             <next>
